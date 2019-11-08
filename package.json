@@ -1,0 +1,16 @@
+{
+  "name": "github-battle",
+  "version": "1.0.0",
+  "description": "Github Battle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jitendra S Singh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
