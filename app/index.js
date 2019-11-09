@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css';
+import Popular from './Components/Popular';
 
-class App extends React.Component {
-    
-}
+
+ReactDOM.render(<Popular/>, document.getElementById('app'));
